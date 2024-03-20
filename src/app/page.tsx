@@ -26,7 +26,9 @@ export default function Home() {
 
       <button onClick={postFunction}>miao</button>
       
-      <img id="image"/>
+      <div>
+        <img id="image"/>
+      </div>
 
     </div>
   );
